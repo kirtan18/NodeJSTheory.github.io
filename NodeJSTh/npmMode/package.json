@@ -1,0 +1,15 @@
+{
+  "name": "npmmode",
+  "version": "1.0.0",
+  "description": "kirtan node tute",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kirtan prajapati",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "validator": "^13.6.0"
+  }
+}
